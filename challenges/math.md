@@ -25,3 +25,4 @@ or apply algorithms.
  * Password generator
  * The N queens problem
  * Markov Chain
+ * Maze generator + solution algorithm

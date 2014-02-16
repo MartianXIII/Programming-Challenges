@@ -18,3 +18,5 @@ required.
  * Typing test
  * Pacman
  * Flappy Bird
+ * Connect Four
+ * Maze
